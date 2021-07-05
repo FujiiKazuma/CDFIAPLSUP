@@ -1,2 +1,2 @@
 # CDFIAPLSUP
-coming soon
+will be available soon
