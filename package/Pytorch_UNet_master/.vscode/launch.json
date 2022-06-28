@@ -1,0 +1,21 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+            // "args":[
+            //     "--model", "/home/fujii/ドキュメント/Pytorch-UNet-master/checkpoints7/CP_epoch20.pth",
+            //     // "--input", "/home/fujii/hdd/riken_colab/image/riken/D4_1/ori/0200.tif",
+            //     "--input", "/home/fujii/hdd/BF-C2DL-HSC-test/01/t1763.tif",
+            //     "--output", "test.jpg"
+            // ]
+        }
+    ]
+}
